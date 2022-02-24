@@ -35,6 +35,9 @@ This is actually the first time I put so much focus in the frontend, so let me k
 &nbsp;
 ### What have I been doing?
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
