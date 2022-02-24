@@ -6,7 +6,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yoram-swiers-699547188/)
 
 
+
 ### Nice to meet you! &nbsp; 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swiersyoram&hide=contribs,prs&bg_color=333333&hide_border=true&text_color=FFFFFF&title_color=F7931E)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=swiersyoram&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=333333&ring=F7931E&fire=F7931E)](https://git.io/streak-stats)	
 <!--
 I am a software engineering student with a passion for automation and backend development, and finding ways to improve the world with my talents and passions! 
 <img align="right" alt="GIF" src="https://github.com/ellarekow/ellarekow/blob/main/ellarekowgif" width="408" height="318" />
