@@ -34,7 +34,8 @@ This is actually the first time I put so much focus in the frontend, so let me k
 
 &nbsp;
 ### What have I been doing?
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swiersyoram&hide=contribs,prs&bg_color=333333&hide_border=true&text_color=FFFFFF&title_color=F7931E&count_private=true&show_icons=true&icon_color=F7931E&include_all_commits=true)
