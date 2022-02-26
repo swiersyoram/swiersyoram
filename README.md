@@ -39,7 +39,8 @@ This is actually the first time I put so much focus in the frontend, so let me k
 ### What have I been doing?
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   44 mins         ████████████████████████░   95.73 % 
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 <!--END_SECTION:waka-->
 
