@@ -38,11 +38,15 @@ This is actually the first time I put so much focus in the frontend, so let me k
 
 ### What have I been doing?
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   44 mins         █████████████████▓░░░░░░░   71.31 % 
-JSON         15 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.37 % 
-TypeScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+JavaScript   44 mins         █████████████████▓░░░░░░░   71.31 %
+JSON         15 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.37 %
+TypeScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
+
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
