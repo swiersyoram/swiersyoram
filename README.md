@@ -9,7 +9,7 @@
 ### What I'm about?
 I am a student who is currently in his last year of studying electronics and ICT. I am really passionate about creating, this can range from applications, automation solutions, to creating products and everything around it.  
 I 💗 fixing problems (even if they don't really need a solution)
-<img src="https://user-images.githubusercontent.com/44026299/155513461-6862b80d-b3d2-43dd-9e55-a8e2af378fc4.svg" width=250 align=right >
+<img src="https://user-images.githubusercontent.com/44026299/155513461-6862b80d-b3d2-43dd-9e55-a8e2af378fc4.svg" width=25% align=right >
 
 
 #### What's in the pipeline?
