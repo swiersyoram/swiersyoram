@@ -5,11 +5,10 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2zB7-64L2wi3q-TH6Ofpyg)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yoram-swiers-699547188/)
 
-
 ### What I'm about?
 I am a student who is currently in his last year of studying electronics and ICT. I am really passionate about creating, this can range from applications, automation solutions, to creating products and everything around it.  
 I 💗 fixing problems (even if they don't really need a solution)
-<img src="https://user-images.githubusercontent.com/44026299/155513461-6862b80d-b3d2-43dd-9e55-a8e2af378fc4.svg" width=25% align=right class=logo >
+<img src="https://user-images.githubusercontent.com/44026299/156396193-e5acbc88-d884-4b36-8dec-e54fbe925bc5.gif" width=25% align=right class=logo >
 
 
 
@@ -32,6 +31,7 @@ I am currently working on my personal website, to showcase my projects, build a 
 This is actually the first time I put so much focus in the frontend, so let me know what you think?
 
 &nbsp;
+
 
 &nbsp;
 
