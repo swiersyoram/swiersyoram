@@ -8,7 +8,7 @@
 ### What I'm about?
 I am a student who is currently in his last year of studying electronics and ICT. I am really passionate about creating, this can range from applications, automation solutions, to creating products and everything around it.  
 I 💗 fixing problems (even if they don't really need a solution)
-<img src="https://user-images.githubusercontent.com/44026299/156396193-e5acbc88-d884-4b36-8dec-e54fbe925bc5.gif" width=25% align=right class=logo >
+<img src="https://user-images.githubusercontent.com/44026299/156396193-e5acbc88-d884-4b36-8dec-e54fbe925bc5.gif" width=40% align=right class=logo >
 
 
 
