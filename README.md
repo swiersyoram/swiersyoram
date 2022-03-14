@@ -41,7 +41,8 @@ This is actually the first time I put so much focus in the frontend, so let me k
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   20 mins         ███████████████████████▓░   94.74 %
+CSS          1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
 ```
 
 <!--END_SECTION:waka-->
