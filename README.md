@@ -41,8 +41,8 @@ This is actually the first time I put so much focus in the frontend, so let me k
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   16 hrs 29 mins  ██████████████████████▓░░   90.06 %
-Other        1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+JavaScript   13 hrs 44 mins  ██████████████████████░░░   88.55 %
+Other        1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
 ```
 
 <!--END_SECTION:waka-->
