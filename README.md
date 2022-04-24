@@ -41,12 +41,12 @@ This is actually the first time I put so much focus in the frontend, so let me k
 <!--START_SECTION:waka-->
 
 ```text
-C             48 mins         ████████░░░░░░░░░░░░░░░░░   31.87 %
-JavaScript    42 mins         ███████░░░░░░░░░░░░░░░░░░   28.32 %
-C++           24 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
-INI           14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
-Python        8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-Markdown      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+JavaScript   42 mins         ████████▒░░░░░░░░░░░░░░░░   33.82 %
+C            24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.40 %
+C++          23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
+INI          14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+Python       8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+Markdown     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 ```
 
 <!--END_SECTION:waka-->
