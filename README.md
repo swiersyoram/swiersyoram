@@ -41,12 +41,12 @@ This is actually the first time I put so much focus in the frontend, so let me k
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   29 hrs          ██████████████████████▓░░   91.15 %
-JavaScript   1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-CSS          31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-JSON         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-HTML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-XML          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript   28 hrs 49 mins  ████████████████████████░   95.46 %
+CSS          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+JSON         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+HTML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+JavaScript   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+XML          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
