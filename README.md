@@ -41,12 +41,12 @@ This is actually the first time I put so much focus in the frontend, so let me k
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 18 hrs 28 mins  █████████████████████░░░░   84.01 %
-YAML                       1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
-JSON                       28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-CSS                        25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Docker                     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-JavaScript                 22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+TypeScript                 13 hrs 12 mins  ████████████████████▓░░░░   82.00 %
+YAML                       1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+Docker                     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+JavaScript                 19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+CSS                        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Nginx configuration file   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
