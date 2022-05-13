@@ -41,12 +41,12 @@ This is actually the first time I put so much focus in the frontend, so let me k
 <!--START_SECTION:waka-->
 
 ```text
-Dart                       1 hr 35 mins    █████████▒░░░░░░░░░░░░░░░   36.84 %
-YAML                       1 hr 32 mins    █████████░░░░░░░░░░░░░░░░   35.42 %
-Docker                     22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-JavaScript                 19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-Nginx configuration file   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-HTML                       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Dart                       2 hrs 19 mins   ███████████▒░░░░░░░░░░░░░   45.89 %
+YAML                       1 hr 32 mins    ███████▓░░░░░░░░░░░░░░░░░   30.35 %
+Docker                     22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+JavaScript                 19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+Nginx configuration file   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+HTML                       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
 ```
 
 <!--END_SECTION:waka-->
