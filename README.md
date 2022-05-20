@@ -41,12 +41,12 @@ This is actually the first time I put so much focus in the frontend, so let me k
 <!--START_SECTION:waka-->
 
 ```text
-Dart         24 hrs 40 mins  ██████████████████████▒░░   89.27 %
-JavaScript   1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-YAML         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-TypeScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Groovy       9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Dart         23 hrs 56 mins  ██████████████████████▒░░   88.98 %
+JavaScript   1 hr 38 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+YAML         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+TypeScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Groovy       9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
