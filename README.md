@@ -41,12 +41,9 @@ This is actually the first time I put so much focus in the frontend, so let me k
 <!--START_SECTION:waka-->
 
 ```text
-YAML                       1 hr 1 min      ████████████▓░░░░░░░░░░░░   51.29 %
-JavaScript                 32 mins         ███████░░░░░░░░░░░░░░░░░░   27.38 %
-HTML                       8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-Nginx configuration file   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-Docker                     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-JSON                       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+JSON         11 mins         ███████▒░░░░░░░░░░░░░░░░░   29.06 %
+JavaScript   10 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
+Other        6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
 ```
 
 <!--END_SECTION:waka-->
