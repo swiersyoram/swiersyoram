@@ -41,8 +41,8 @@ This is actually the first time I put so much focus in the frontend, so let me k
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   13 hrs 50 mins  ██████████████████▓░░░░░░   74.93 %
-Other        1 hr 41 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+TypeScript   9 hrs 47 mins   ████████████████▓░░░░░░░░   66.39 %
+Other        1 hr 58 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
 ```
 
 <!--END_SECTION:waka-->
