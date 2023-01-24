@@ -4,6 +4,8 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yoramswiers/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2zB7-64L2wi3q-TH6Ofpyg)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yoram-swiers-699547188/)
+[![CodeWars Badge](https://www.codewars.com/users/swiersyoram/badges/micro)](https://www.codewars.com/users/swiersyoram/)
+
 
 ### What I'm about?
 I am a student who is currently in his last year of studying electronics and ICT. I am really passionate about creating, this can range from applications, automation solutions, to creating products and everything around it.  
