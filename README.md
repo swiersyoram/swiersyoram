@@ -43,7 +43,9 @@ This is actually the first time I put so much focus in the frontend, so let me k
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   57 mins         ██████████████████████░░░   87.66 %
+Bash         7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
