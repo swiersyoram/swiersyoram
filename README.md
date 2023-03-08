@@ -43,7 +43,7 @@ This is actually the first time I put so much focus in the frontend, so let me k
 <!--START_SECTION:waka-->
 
 ```text
-Other        1 hr 16 mins    ██████████▓░░░░░░░░░░░░░░   42.71 %
+Other        1 hr 16 mins    ███████████░░░░░░░░░░░░░░   44.16 %
 ```
 
 <!--END_SECTION:waka-->
