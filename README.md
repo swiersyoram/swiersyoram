@@ -42,7 +42,7 @@ This is actually the first time I put so much focus in the frontend, so let me k
 ### What have I been doing?
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
