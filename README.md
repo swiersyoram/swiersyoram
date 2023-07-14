@@ -7,8 +7,8 @@
 [![CodeWars Badge](https://www.codewars.com/users/swiersyoram/badges/micro)](https://www.codewars.com/users/swiersyoram/)
 
 
-### What I'm about?
-I am a student who is currently in his last year of studying electronics and ICT. I am really passionate about creating, this can range from applications, automation solutions, to creating products and everything around it.  
+### What am I about?
+I am a software engineer, mostly busy doing javascript/React and a little Java. I am really passionate about creating, this can range from applications and automation solutions, to creating products and everything around it.  
 I 💗 fixing problems (even if they don't really need a solution)
 <img src="https://user-images.githubusercontent.com/44026299/156396193-e5acbc88-d884-4b36-8dec-e54fbe925bc5.gif" width=40% align=right class=logo >
 
@@ -16,10 +16,8 @@ I 💗 fixing problems (even if they don't really need a solution)
 
 #### What's in the pipeline?
 - Working on a personal website to house all my content, tell my story and show of my projects
-- Designing a product from start to finish, and try to bring it to market  
-(not gonna tell you what it is yet)
+- Designing a product from start to finish, and try to bring it to market.
 - Sharing tips, tutorials and insights on youtube and tiktok
-- Landing a job as a webdeveloper or something differrent, who knows?🙃
 
 &nbsp;
 ### Currently working on
