@@ -13,7 +13,6 @@ I 💗 fixing problems (even if they don't really need a solution)
 <img src="https://user-images.githubusercontent.com/44026299/156396193-e5acbc88-d884-4b36-8dec-e54fbe925bc5.gif" width=40% align=right class=logo >
 
 
-
 #### What's in the pipeline?
 - Working on a personal website to house all my content, tell my story and show of my projects
 - Designing a product from start to finish, and try to bring it to market.
