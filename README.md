@@ -8,14 +8,14 @@
 
 
 ### What am I about?
-I am a software engineer, mostly busy doing javascript/React and a little Java. I am really passionate about creating, this can range from applications and automation solutions, to creating products and everything around it.  
-I 💗 fixing problems (even if they don't really need a solution)
+I am a software engineer, mostly busy doing Javascript/React and a little Java. I am really passionate about creating, this can range from applications and automation solutions, to creating products and everything around it.  
+I 💗 fixing problems and implementing creative solutions
 <img src="https://user-images.githubusercontent.com/44026299/156396193-e5acbc88-d884-4b36-8dec-e54fbe925bc5.gif" width=40% align=right class=logo >
 
 
 #### What's in the pipeline?
 - Working on a personal website to house all my content, tell my story and show of my projects
-- Designing a product from start to finish, and try to bring it to market.
+- Designing a product from start to finish, and try to bring it to market
 - Sharing tips, tutorials and insights on youtube and tiktok
 
 &nbsp;
