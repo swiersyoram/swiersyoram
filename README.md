@@ -5,6 +5,7 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2zB7-64L2wi3q-TH6Ofpyg)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yoram-swiers-699547188/)
 [![CodeWars Badge](https://www.codewars.com/users/swiersyoram/badges/micro)](https://www.codewars.com/users/swiersyoram/)
+![LeetCode badge](https://leetcard.jacoblin.cool/swiersyoram?theme=dark&font=Roboto)
 
 
 ### What am I about?
