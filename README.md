@@ -19,9 +19,7 @@ I 💗 fixing problems and implementing creative solutions. 🔥
 
 
 #### What's in the pipeline?
-- Working on a personal website to house all my content, tell my story and show of my projects
-- Designing a product from start to finish, and try to bring it to market
-- Sharing tips, tutorials and insights on youtube and tiktok
+- ...
 
 &nbsp;
 
