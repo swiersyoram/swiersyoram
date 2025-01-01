@@ -29,7 +29,8 @@ I 💗 fixing problems and implementing creative solutions. 🔥
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   3 mins          ████████████████████████░   96.51 %
+JSON         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
 ```
 
 <!--END_SECTION:waka-->
