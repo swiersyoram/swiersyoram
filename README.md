@@ -13,7 +13,7 @@
 ![](https://badges.peiyuan.ch/leetcode/swiersyoram/solved?difficulty=hard)
 
 ### About Me
-I'm a software engineer with a strong focus on Java and Javascript. I'm passionate about building things—whether it's web applications, automation tools, or full-fledged products. I love solving problems and bringing creative solutions to life. 💡💻🔥
+I'm a software engineer with a strong focus on Java and Javascript. I'm passionate about building things, whether it's web applications, automation tools, or full-fledged products. I love solving problems and bringing creative solutions to life. 💡💻🔥
 <img src="https://user-images.githubusercontent.com/44026299/156396193-e5acbc88-d884-4b36-8dec-e54fbe925bc5.gif" width=40% align=right class=logo >
 
 
