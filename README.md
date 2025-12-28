@@ -33,6 +33,8 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+<!---
 ## GitHub Stats
 ![swiersyoram's Stats](https://github-readme-stats.vercel.app/api?username=swiersyoram&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
 ![swiersyoram's Streak](https://github-readme-streak-stats.herokuapp.com/?user=swiersyoram&theme=slateorange&hide_border=true)
+-->
